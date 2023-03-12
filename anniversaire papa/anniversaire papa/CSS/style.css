@@ -1,0 +1,28 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Golos+Text&family=Open+Sans&display=swap");
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/btn.css");
+@import url("components/card.css");
+
+h1, h2, h3{
+   font-family: 'Golos Text', sans-serif;
+   font-weight: bold;
+   color: black;
+ }
+
+h1 {
+  color: yellow;
+  font-size: 1px
+}
+
+h2 {
+  text-align: center;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: rgb(50, 50, 50);
+  margin: 0px;
+}
